@@ -1,0 +1,336 @@
+Introdução à Programação e Pensamento Computacional
+Apresentação
+
+
+julianazanelatto
+
+Pensamento compuntacional divido em 4 pliares 
+decomposição 
+reconhecimento e padrões 
+abstração 
+desing de algoritimos 
+
+Introdução a lógica de programação 
+Oque é logica ?
+processo de pensamento atrelado ao conceito de 
+algoritimos e resolução de problemas 
+
+>>>Tecnica Linear modelo tradicional ñ tem vinculo
+tecnica matematica "é a execução sequenciada de recursos limitados"
+sequencias de ações a serem executadas que possuem dependencia entre si 
+
+>> técnica estruturada 
+escrtia 
+entendimento 
+validação 
+Manutenção 
+> ñ é linear exemplo escolher suco ou café 
+
+Tecnicas modular >>partes independentes que são controladas por um conjuntos de 
+regras 
+dados de entrada 
+processo de transformação 
+dados de saída
+consegue a simplificação do algoritimo 
+decompor o problema 
+verificação do modulo 
+exe: acordar e tomar café 
+acordar é separado por modulo escoher bebida outro modulo 
+
+
+" FUNDAMENTOS DE ALGORITIMO "
+
+tIPOLOGIA E VARIAVÉIS 
+Tipos de dados Nummericos 
+inteiros e reais 
+inteiros são todos os  numeros positivos e negativos que ñ possuem casas deci
+mais 
+reais são todos os numeros que compoes todos nossos numeros 
+negativos positivos e casas decimais 
+
+caractere>> 
+
+Logico >> boleano 
+verdadeiro ou falso 
+
+
+Usandos os dados .. Variavel 
+
+Variavel é um tipo de estrutura mutavel  que ela pode variar 
+dentro do seu valor ela é incostante pode ser subscrita e pode receber mais de um valor 
+e modificar o seu conteúdo
+recebe um tipo de dado eñ tem certea do seu valor 
+ela é restrita ao seu tipo 
+exe: numero ela é numerica
+
+Regras 
+
+atribuição de um ou mais caractere 
+primeira letra ñ numero 
+sem espaços em branco 
+vedado 
+utilizar palavras reservas
+caracterie e nmumero 
+
+variavél tem um papel ou ela é de Ação ou de controle 
+Ação modifica um estado do algoritimo ou programa 
+Controle vigiada ou controle dentro do algo
+timo programa ou equação 
+
+Constante inatelralvel \.. fixo ou estavél constante 
+isso é uma constante 
+
+Instruções sã operações que vão processar os dados 
+
+
+
+  "Instruções Primitiva "
+determina as ações que vamos executar em cima dos nossos dados 
+vamos usar operadores 
+instrução são liguagem de palavras -chave 
+de uma determinada de programaão que tem po finalidade comandar 
+um computador que irá tratar os dados 
+
+Estrutura  condicionais e operadores 
+
+Simples codição >operadores 
+Composta condição >exeção >operação 
+encaeada Condição > condição > exeção > 
+         Operação  Operação 
+
+operadoresd logicos usar quando a resposta for
+verdadeira ou logica 
+and intersessão 
+or da união 
+not operador de negação inversão do resultado logico
+Not B -> tudo que ñ esta em B 
+tudo que esta em A e ñ pertence a B 
+
+Estrutura de repetição 
+>>precisa que o pedaço do cógigo seja executado mais de uma vez 
+Laços
+controle de fluxo
+malhas de repetição 
+repetição 
+loop 
+existe condições de parada 
+numero de repetições ou condições a serem 
+satisfeitas 
+
+enquanto faça 
+repita até 
+
+
+Vetores e matrizes 
+Vetor sequencia de dados de tipo de dados 
+é caracterizado por uma variavel dimencionada com tamanho 
+pré-fixado containerr ou matrix
+
+Matriz é uma tabela organizda em linhas e colunas e no formato 
+m x n, onde M representa o numero de linhas (horizontal)
+e n o numero de colunas ( vertical)
+
+Mtrizes são coleção de variaveis de vetores com tamanho pré fixado 
+continguas em memporia do cp e temos os indices dentro da matriz 
+
+Oque são funções ?
+
+subalgotitmo
+função 
+subprograma
+bloco
+metodo 
+sub-rotima
+
+são blocos de instruções que realizam tarefas específicas 
+decomposição do algoritimo 
+modularixação do programa 
+código mais claro mais conciso 
+reutilização de instruções 
+são identificados or nome e parametros 
+
+Função >>
+definição
+nome 
+invocação 
+variavél local 
+
+intruções de entrada e saida 
+Definição formal
+Consiste na inserção e recebimeto de dados do
+mundo real por meio de alguma interface, seja teclado, mouse
+aquivos, entre outros 
+
+
+  **LINGUAGENS DE PROGRAMAÇÃO**
+
+oque é linguagem de programação >> metodo padronizado
+composto por um conjunto de sintática e semanticas 
+de implementação de um código fonte 
+
+
+Como um computador entende o programa ?
+
+Linguagem de alto nivel >> envia para o compilador >> 
+envia para linguagem de baixo nivel ( linguagem de maquina 
+programa objeto 
+
+tradução 
+1 geração do programa objeto 
+2 execução do programa obeto 
+c ++ java
+
+Interpretação 
+programa fonte executado diretamente 
+>> maior flexibilidade mais lenta
+js python e ruby
+
+trasnpilação >> alto nivel Para outro alto nivel 
+
+caracteristicas de um programa 
+
+desenvolvimento de programa 
+Legibilidade
+redigibilidade 
+confiabilidade
+custo
+
+
+>> Legibilidade 
+Facilidade de leitura 
+compreensão 
+ortogonalidade >>coerencia nas instruções
+definições adequadas das estruturas 
+
+>>redigibilidade  
+Pode conflitar com a legibilidade
+ortigonalidade 
+simplicidade da escrita
+suporte á abstração 
+reuso do código 
+expressividade 
+
+
+>> confiabilidade
+verificação de tipos 
+trata execeções
+uso d ponteiros 
+compatibilidade entre compliladores 
+
+
+>> custo
+Teinamento 
+codificação 
+compliaçã
+execução 
+infra-estrutura 
+analise de impacto 
+
+
+
+  ** Analise do código ** 
+
+como o computador analisa nosso coódigo
+
+>> Analise Lexica (Elementos idenficadores palavras
+Particionar 
+classificar 
+eliminar 
+
+>>Analise Sintática - Forma
+
+Sintaxe > comonente do sistema linguistico que interligam
+os constituintes da sentença, atribuindo-lhe uma estrutura 
+padrão gramatica 
+depende da linguagem utilizada 
+
+
+>> Analise Semântica - Significado 
+Semantica 
+
+"é o estudo do significado. Incide sobre a relação entre 
+significantes, como: palavras, frases, sinais e simblos 
+Erro de semantica 
+. ñ faz oque é esperado 
+
+
+    ** Paradigmas de programação ** 
+
+Paradigmas > forma de resolução de problemas com
+diretrizes e limitações especificas de cada paradigma utilizando 
+linguagem de programação 
+
+classificação 
+orientação á objeto 
+procedural  >>seguencia 
+funcinal >>instruçõe baseadas em funções
+estruturado >>estrutura de blocos alinhados
+computação di
+stribuida>> funções executadas de forma independente 
+logico >>
+
+Paradigma estruturado c
+
+conceitos 
+. seguencia
+. decisão >> teste logico 
+. iteração >> funcções lacos codições 
+
+POO ainda ñ compreendida por muitos 
+
+Programação Orientada a obejto 
+
+Paradigma de programação baseado na utilização de objetos e suas 
+interações 
+Analogo ao mundo real 
+Conceito de objeto >> violão bola pessoa gato cachorro 
+Um objeto é descrito por caracteristicas especificas, comportamentos e 
+estado"
+
+oque eu tenho são os atributos
+sou capaz de fazer é o metodo
+como faço são os estados 
+
+Classificação Caneta 
+
+
+Pilares de orientação a obeto 
+herança 
+encapsulamento 
+polimorfismo
+abstração 
+
+herança >> classe filho herda carcteristicas da 
+classe mãae 
+classe mae comportamento geral
+classe filho comportamento especifico 
+poo paradigma de orientação de objeto reuso de código 
+pe paradgima estruturado problemas especifico diretor
+
+
+
+
+
+   **Primeiro contato com a programação**
+
+Algoritimos em portugol 
+
+considerações finais 
+
+materias de aopio 
+
+
+
+Fazer a prova tirei 5 preciso tirar 7
+
+
+   *** Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progress**
+
+[Sintaxe Basica Markdow](https://www.markdowguide.org/basic-syntax/)
+
+git clone 
+
+
+ 
+
+
