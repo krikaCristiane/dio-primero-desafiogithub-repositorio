@@ -1,0 +1,24 @@
+   *** Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progress**
+
+[Sintaxe Basica Markdow](https://www.markdowguide.org/basic-syntax/)
+
+Primeiros passos 
+1 Criar no GitHub online um novo code 
+2 ir até a pasta destinada no seu cp e abrir um gitbash 
+3 copiar o endereço do cod para o gitbash
+4 para passar um arquivo criado na nasta git dentro do pc
+ir em Git status
+5 git add. para inserir as novas informações da pasta no git 
+depois git commit -m "Inclusão as anotaçõs do curso de Git/GitHub"
+6 para commitar o arquivo > git commit -m + " uma descrição em aspas"
+7 git status
+8 git push origin main 
+
+
+         **Desafio de Projeto **
+
+ 1. Primeiro repositório 
+ 3. Perder o Medo 
+ 2. mostrar qualidade de código 
+ 4. Organizar as pastas para estudo 
+
