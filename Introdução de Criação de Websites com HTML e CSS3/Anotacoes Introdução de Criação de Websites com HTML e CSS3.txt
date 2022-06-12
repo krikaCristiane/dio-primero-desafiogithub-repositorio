@@ -1,0 +1,183 @@
+Modulo II - HMT/CSS3/JS 
+
+     **Introdução de Criação de Websites com HTML e CSS3**
+
+>> Estrutura Básica 
+professsor Lucas Vilaboim 
+
+Elemento é base 
+
+estrutura Básica 
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta>
+<title></title>
+</head>
+<body>
+</body>
+</html>
+
+
+         Entendendo o que é semântica 
+  
+  Semântica Parte 1 
+
+<section> representa uma secção genérica de conteúdo 
+ <aside> conteúdo relacionado ao conteúdo principal da pagina
+<header> cabeçalho de uma página o de parte da pagina 
+<footer> pode ser rodapé da página ou de parte dela 
+<article> representa um conteúdo relevante dentro da página tipo um artigo de um blog
+<h1>-<h6> representam a importância de um título dentro da sua pagina 
+pode haver apenas um h1 por pagina 
+
+  
+  Semântica Parte 2 
+ 
+Exercícios no VSCODE 
+
+             Como usar Textos e Links em Html
+
+>>Tags para texto 
+
+<p>Conteúdo do artigo. </p> para textos mais densos como 
+foto artigos >> ele representa um paragrafo 
+imagens códigos vídeos vários tipos de conteúdo ele suporta 
+
+
+>>Tags para links
+
+O elemento A tem vários atributos ele é uma Ancora 
+<a>Link</a>
+<a href="linkedin.com/in/vilaboin">LinkedIn</a>
+
+<a target="_blank">Link</a>
+
+
+>>Exercícios Práticos 
+ nos vs code continuação 
+
+                
+
+             Como inserir Imagens no seu site 
+
+>> tag img 
+ <img>
+<img scr.=img/avatar.jpg"> Obrigatório guarda o arquivo da imagem
+
+<img alt="Arquivo que deseja"> muito recomendado para melhorar acessibilidade 
+mostra a leitura da foto leitores de tela usam essa descrição para mostrar aos usuários oque essas imagens 
+significam 
+
+
+>> Exercício Pratico 
+Continuação no VSCODE 
+
+                
+              Como criar listas com HTML
+
+>>Tags li, ul e ol
+Listas serve para agrupar uma coleção de Itens 
+
+<Ul> Representa Listas que a ordem dos itens ñ é importante
+item 1
+item 2
+
+<ol> ordem dos itens é importante são representados por números letras 
+item 1
+item 2
+
+<li> é um item nessa lista 
+
+>> Exercício Pratico
+
+
+
+      ** Introdução aos conceitos do CSS3**
+
+>> introdução ao CSS3 >> linguagem de estilo 
+oque são seletores >> são apenas elementos html (a, p, h1, h3{dentro do 
+par de chaves temos as declarações >>que é formada por uma propriedade e um valor 
+
+ID x Classe 
+<header id="header" class="header'></header>
+
+<header class="header"></header>
+
+Id e classes podem representar qualquer tipo de elemento 
+uma classe é precedida por um ponto 
+e um Id é precedida por #
+um id só pode ser usado uma vez na pagina 
+
+>> Conceitos Básicos 
+caixa retangular box model 
+4 áreas 
+margem >> são estamentos entre elementos
+bordas circundam o Page de conteúdo dá para alterar largura e cor 
+padding >> é o espaçamento entre a borda e o conteúdo 
+conteúdo >> representa um texto a imagem ou vídeo
+
+
+
+>> Material de apoio 
+
+
+         ** Estilizando elementos Textos e Listas**
+
+>>Estilizando Elementos 
+Padin e Margin 
+border pode ter 3 valores pixel, centímetro, milímetros
+estilo: solida, pontilhada, tracejada 
+>>bORDER-radius 
+
+
+>>Estilizando Textos 
+
+Font-family - pode ser da web ou da nossa maquina 
+Font-weitght - altera o peso do texto (bold é negrito 
+texto-transform > altera o texto entre maiúsculas e minúsculas 
+>uppercase - coloca todo texto em caixa alta 
+>lowecase - coloca todo texto em caixa baixa 
+>captalize - coloca todas as primeiras letras de cada palavra em maiúscula 
+>texto-decoration >> coloca linhas
+>underline linha abaixo
+>overline linha ao centro
+>line-through linha ao centro cortando a palavra 
+
+
+
+
+>> Estilizando Listas 
+ existem Listas ordenadas e ñ ordenadas e para alterar o
+marcador dessa lista 
+
+alterar o marcador dessa lista usamos o list-style-type
+ul
+> list-style-type square - alterado o símbolo para um quadrado 
+
+
+ol
+> list-style-type upper-roman alterando o marcador de uma lista ordenada
+para um marcador maiúsculo
+
+ul
+>list-style-type "/if44D" altera o marcador de uma lista ñ ordenada para um símbolo
+
+>>list-style-type url(image.png)
+
+           **Dimensão e Alinhamento**
+
+>>Propriedades de Dimensões e Alinhamento
+são coisas importantes no layout
+
+>width   largura e altura
+>heigtht largura e altura 
+>max- width largura máxima do elemento
+>max-heigtht largura máxima do elemento
+>Margin alinhamento serve para alinhar algum elemento aut
+>texto align alinhar texto 
+
+
+Prova Ok 70%
+
