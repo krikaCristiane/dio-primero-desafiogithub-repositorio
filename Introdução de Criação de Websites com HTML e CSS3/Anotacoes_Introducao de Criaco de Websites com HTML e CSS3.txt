@@ -1,3 +1,4 @@
+
 Modulo II - HMT/CSS3/JS 
 
      **Introdução de Criação de Websites com HTML e CSS3**
@@ -177,7 +178,3 @@ são coisas importantes no layout
 >max-heigtht largura máxima do elemento
 >Margin alinhamento serve para alinhar algum elemento aut
 >texto align alinhar texto 
-
-
-Prova Ok 70%
-
